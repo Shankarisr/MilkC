@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the MilkC 1.0
+---------------------------------------------------
+
+app_name - 						MilkC
+app_alias - 					milkc
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Tamil Nadu
+app_author_country - 			India
+app_password - 					kujxGemyYZiZ
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Friday 9th of February 2024 09:54:38 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
